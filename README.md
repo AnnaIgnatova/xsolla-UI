@@ -1,6 +1,7 @@
-# практика по занятию UI, особенности верстки
+# Практика по занятию UI, особенности верстки
 
-## задание: сделать верстку по макету:
-![image](https://user-images.githubusercontent.com/61065956/144724237-5fd416e8-363d-4caa-9b37-0b9312f6e7d7.png)
+![image](https://user-images.githubusercontent.com/61065956/144744845-56b91625-1abc-4116-bd7c-35c0282d217b.png)
+![image](https://user-images.githubusercontent.com/61065956/144744856-134d8c17-50ce-4b0c-a96c-c4af75fbd992.png)
 
-## deploy:
+## japan page: 
+## home page: 
